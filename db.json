@@ -1,37 +1,39 @@
 {
-        {
-            "id": 1,
-            "marca": "GM",
-            "modelo": "Corsa",
-            "ano": 2015,
-            "valor": "15.350,00"
-        },
-        {
-            "id": 2,
-            "marca": "GM",
-            "modelo": "Corsa",
-            "ano": 2018,
-            "valor": "10.355,99"
-        },
-        {
-            "id": 3,
-            "marca": "TESLA",
-            "modelo": "FAKEMODELO",
-            "ano": 2021,
-            "valor": "30.350,00"
-        },
-        {
-            "id": 4,
-            "marca": "TESLA",
-            "modelo": "FAKEMODELO2",
-            "ano": 2020,
-            "valor": "33.350,00"
-        },
-        {
-            "id": 5,
-            "marca": "FORD",
-            "modelo": "KA",
-            "ano": 2020,
-            "valor": "19.350,99"
-        }
+   "data":[
+      {
+         "id":1,
+         "marca":"GM",
+         "modelo":"Corsa",
+         "ano":2015,
+         "valor":"15.350,00"
+      },
+      {
+         "id":2,
+         "marca":"GM",
+         "modelo":"Corsa",
+         "ano":2018,
+         "valor":"10.355,99"
+      },
+      {
+         "id":3,
+         "marca":"TESLA",
+         "modelo":"FAKEMODELO",
+         "ano":2021,
+         "valor":"30.350,00"
+      },
+      {
+         "id":4,
+         "marca":"TESLA",
+         "modelo":"FAKEMODELO2",
+         "ano":2020,
+         "valor":"33.350,00"
+      },
+      {
+         "id":5,
+         "marca":"FORD",
+         "modelo":"KA",
+         "ano":2020,
+         "valor":"19.350,99"
+      }
+   ]
 }
