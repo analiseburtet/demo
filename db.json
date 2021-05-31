@@ -4,25 +4,25 @@
          "id":1,
          "marca":"GM",
          "valor":"15.350,00",
-         "qtdVeiculos": 22
+         "qtdVeiculos":22
       },
       {
          "id":2,
          "marca":"Tesla",
          "valor":"22.350,00",
-         "qtdVeiculos": 2
+         "qtdVeiculos":2
       },
       {
          "id":3,
          "marca":"Ford",
          "valor":"19.350,00",
-         "qtdVeiculos": 4
+         "qtdVeiculos":4
       },
       {
          "id":4,
          "marca":"Volvo",
          "valor":"44.350,00",
-         "qtdVeiculos": 1
+         "qtdVeiculos":1
       }
    ]
 }
