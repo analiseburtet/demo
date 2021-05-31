@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "data": [
+        {
+            "id": 1,
+            "marca": "GM",
+            "modelo": "Corsa",
+            "ano": 2015,
+            "valor": "15.350,00"
+        },
+        {
+            "id": 2,
+            "marca": "GM",
+            "modelo": "Corsa",
+            "ano": 2018,
+            "valor": "10.355,99"
+        },
+        {
+            "id": 3,
+            "marca": "TESLA",
+            "modelo": "FAKEMODELO",
+            "ano": 2021,
+            "valor": "30.350,00"
+        },
+        {
+            "id": 4,
+            "marca": "TESLA",
+            "modelo": "FAKEMODELO2",
+            "ano": 2020,
+            "valor": "33.350,00"
+        },
+        {
+            "id": 5,
+            "marca": "FORD",
+            "modelo": "KA",
+            "ano": 2020,
+            "valor": "19.350,99"
+        },
+    ]
 }
