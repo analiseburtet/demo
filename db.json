@@ -3,25 +3,25 @@
       {
          "id":1,
          "brand":"GM",
-         "amount":"15.350,00",
+         "price":"15.350,00",
          "vehicles":22
       },
       {
          "id":2,
          "brand":"Tesla",
-         "amount":"22.350,00",
+         "price":"22.350,00",
          "vehicles":2
       },
       {
          "id":3,
          "brand":"Ford",
-         "amount":"19.350,00",
+         "price":"19.350,00",
          "vehicles":4
       },
       {
          "id":4,
          "brand":"Volvo",
-         "amount":"44.350,00",
+         "price":"44.350,00",
          "vehicles":1
       }
    ]
