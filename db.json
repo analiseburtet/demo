@@ -1,26 +1,26 @@
 {
    "data":[
       {
-         "id":1,
-         "brand":"GM",
+         "brandId":1,
+         "brandName":"GM",
          "price":"15.350,00",
          "vehicles":22
       },
       {
-         "id":2,
-         "brand":"Tesla",
+         "brandId":2,
+         "brandName":"Tesla",
          "price":"22.350,00",
          "vehicles":2
       },
       {
-         "id":3,
-         "brand":"Ford",
+         "brandId":3,
+         "brandName":"Ford",
          "price":"19.350,00",
          "vehicles":4
       },
       {
-         "id":4,
-         "brand":"Volvo",
+         "brandId":4,
+         "brandName":"Volvo",
          "price":"44.350,00",
          "vehicles":1
       }
